@@ -1,0 +1,32 @@
+h1{
+    color:rgb(255, 53, 154);
+  margin-left: 100px;
+  
+   
+}
+
+h2{
+    color:crimson;
+}
+
+
+p,h3{
+ color:rgb(23, 7, 78);
+   font-style:italic ;
+}
+
+li{
+    color: rgb(48, 9, 85);
+}
+
+body{
+    background-color: #a4ffe1;
+}
+
+a:link{
+    color: rgb(8, 185, 255);
+}
+
+a:visited{
+    color: rgb(0, 0, 0);
+}
